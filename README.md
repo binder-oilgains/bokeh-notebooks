@@ -1,7 +1,7 @@
-[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/binder-oilgains/bokeh-notebooks/main?urlpath=quickstart/tree/quickstart.ipynb)
-
 Bokeh in Jupyter Notebooks
 ==========================
+
+[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/jupyter/user/binder-oilgains-bokeh-notebooks-5gn649pn/notebooks/quickstart/quickstart.ipynb)
 
 Welcome to [Bokeh](https://bokeh.org/) in Jupyter Notebooks!
 

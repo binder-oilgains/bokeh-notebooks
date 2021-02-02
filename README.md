@@ -1,7 +1,13 @@
 Bokeh in Jupyter Notebooks
 ==========================
 
-[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/jupyter/user/binder-oilgains-bokeh-notebooks-5gn649pn/notebooks/quickstart/quickstart.ipynb)
+*   GESIS: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/binder-oilgains/bokeh-notebooks/HEAD)
+
+```
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/binder-oilgains/bokeh-notebooks/HEAD)
+```
+
+
 
 Welcome to [Bokeh](https://bokeh.org/) in Jupyter Notebooks!
 
